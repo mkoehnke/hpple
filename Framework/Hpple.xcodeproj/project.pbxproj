@@ -180,7 +180,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0730;
-				ORGANIZATIONNAME = "apploft. GmbH";
+				ORGANIZATIONNAME = "Mathias Koehnke";
 				TargetAttributes = {
 					764F10A91CB681BA0078C5D9 = {
 						CreatedOnToolsVersion = 7.3;
@@ -354,7 +354,7 @@
 				INFOPLIST_FILE = Hpple/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.apploft.Hpple;
+				PRODUCT_BUNDLE_IDENTIFIER = de.mathiaskoehnke.Hpple;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -376,7 +376,7 @@
 				INFOPLIST_FILE = Hpple/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.apploft.Hpple;
+				PRODUCT_BUNDLE_IDENTIFIER = de.mathiaskoehnke.Hpple;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -402,7 +402,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
-				PRODUCT_BUNDLE_IDENTIFIER = de.apploft.HppleOSX;
+				PRODUCT_BUNDLE_IDENTIFIER = de.mathiaskoehnke.HppleOSX;
 				PRODUCT_NAME = Hpple;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
@@ -428,7 +428,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
-				PRODUCT_BUNDLE_IDENTIFIER = de.apploft.HppleOSX;
+				PRODUCT_BUNDLE_IDENTIFIER = de.mathiaskoehnke.HppleOSX;
 				PRODUCT_NAME = Hpple;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
