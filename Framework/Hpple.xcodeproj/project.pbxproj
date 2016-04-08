@@ -15,10 +15,10 @@
 		764F10CF1CB6846F0078C5D9 /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 764F10C91CB6846F0078C5D9 /* TFHppleElement.m */; };
 		764F10D01CB6846F0078C5D9 /* XPathQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10CA1CB6846F0078C5D9 /* XPathQuery.h */; };
 		764F10D11CB6846F0078C5D9 /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 764F10CB1CB6846F0078C5D9 /* XPathQuery.m */; };
-		764F11001CB68DCA0078C5D9 /* Hpple.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10AD1CB681BA0078C5D9 /* Hpple.h */; };
-		764F11011CB68F5A0078C5D9 /* TFHpple.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10C61CB6846F0078C5D9 /* TFHpple.h */; };
+		764F11001CB68DCA0078C5D9 /* Hpple.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10AD1CB681BA0078C5D9 /* Hpple.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		764F11011CB68F5A0078C5D9 /* TFHpple.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10C61CB6846F0078C5D9 /* TFHpple.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		764F11021CB68F5A0078C5D9 /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = 764F10C71CB6846F0078C5D9 /* TFHpple.m */; };
-		764F11031CB68F5A0078C5D9 /* TFHppleElement.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10C81CB6846F0078C5D9 /* TFHppleElement.h */; };
+		764F11031CB68F5A0078C5D9 /* TFHppleElement.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10C81CB6846F0078C5D9 /* TFHppleElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		764F11041CB68F5A0078C5D9 /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 764F10C91CB6846F0078C5D9 /* TFHppleElement.m */; };
 		764F11051CB68F5A0078C5D9 /* XPathQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10CA1CB6846F0078C5D9 /* XPathQuery.h */; };
 		764F11061CB68F5A0078C5D9 /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 764F10CB1CB6846F0078C5D9 /* XPathQuery.m */; };
@@ -128,9 +128,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				764F11011CB68F5A0078C5D9 /* TFHpple.h in Headers */,
-				764F11051CB68F5A0078C5D9 /* XPathQuery.h in Headers */,
 				764F11001CB68DCA0078C5D9 /* Hpple.h in Headers */,
 				764F11031CB68F5A0078C5D9 /* TFHppleElement.h in Headers */,
+				764F11051CB68F5A0078C5D9 /* XPathQuery.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
