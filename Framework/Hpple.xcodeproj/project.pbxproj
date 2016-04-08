@@ -26,7 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		764F10AA1CB681BA0078C5D9 /* Hpple.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Hpple.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		764F10AA1CB681BA0078C5D9 /* hpple.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = hpple.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		764F10AD1CB681BA0078C5D9 /* Hpple.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Hpple.h; sourceTree = "<group>"; };
 		764F10AF1CB681BA0078C5D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		764F10C21CB683D60078C5D9 /* libxml2.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.2.dylib; path = /usr/lib/libxml2.2.dylib; sourceTree = "<absolute>"; };
@@ -36,7 +36,7 @@
 		764F10C91CB6846F0078C5D9 /* TFHppleElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHppleElement.m; sourceTree = "<group>"; };
 		764F10CA1CB6846F0078C5D9 /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XPathQuery.h; sourceTree = "<group>"; };
 		764F10CB1CB6846F0078C5D9 /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XPathQuery.m; sourceTree = "<group>"; };
-		764F10F81CB68D390078C5D9 /* Hpple.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Hpple.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		764F10F81CB68D390078C5D9 /* hpple.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = hpple.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,8 +71,8 @@
 		764F10AB1CB681BA0078C5D9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				764F10AA1CB681BA0078C5D9 /* Hpple.framework */,
-				764F10F81CB68D390078C5D9 /* Hpple.framework */,
+				764F10AA1CB681BA0078C5D9 /* hpple.framework */,
+				764F10F81CB68D390078C5D9 /* hpple.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -152,7 +152,7 @@
 			);
 			name = Hpple;
 			productName = Hpple;
-			productReference = 764F10AA1CB681BA0078C5D9 /* Hpple.framework */;
+			productReference = 764F10AA1CB681BA0078C5D9 /* hpple.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		764F10F71CB68D390078C5D9 /* HppleOSX */ = {
@@ -170,7 +170,7 @@
 			);
 			name = HppleOSX;
 			productName = HppleOSX;
-			productReference = 764F10F81CB68D390078C5D9 /* Hpple.framework */;
+			productReference = 764F10F81CB68D390078C5D9 /* hpple.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -356,7 +356,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "$(PROJECT_DIR)/Hpple/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = de.mathiaskoehnke.Hpple;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = hpple;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 			};
@@ -379,7 +379,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "$(PROJECT_DIR)/Hpple/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = de.mathiaskoehnke.Hpple;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = hpple;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 			};
@@ -406,7 +406,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MODULEMAP_FILE = "$(PROJECT_DIR)/Hpple/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = de.mathiaskoehnke.HppleOSX;
-				PRODUCT_NAME = Hpple;
+				PRODUCT_NAME = hpple;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 			};
@@ -433,7 +433,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MODULEMAP_FILE = "$(PROJECT_DIR)/Hpple/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = de.mathiaskoehnke.HppleOSX;
-				PRODUCT_NAME = Hpple;
+				PRODUCT_NAME = hpple;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 			};
