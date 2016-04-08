@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "764F10A91CB681BA0078C5D9"
-               BuildableName = "Hpple.framework"
+               BuildableName = "hpple.framework"
                BlueprintName = "Hpple"
                ReferencedContainer = "container:Hpple.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "764F10A91CB681BA0078C5D9"
-            BuildableName = "Hpple.framework"
+            BuildableName = "hpple.framework"
             BlueprintName = "Hpple"
             ReferencedContainer = "container:Hpple.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "764F10A91CB681BA0078C5D9"
-            BuildableName = "Hpple.framework"
+            BuildableName = "hpple.framework"
             BlueprintName = "Hpple"
             ReferencedContainer = "container:Hpple.xcodeproj">
          </BuildableReference>
