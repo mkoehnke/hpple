@@ -13,15 +13,15 @@
 		AD210CF11A249B34007EB02E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD210CEF1A249B34007EB02E /* Main.storyboard */; };
 		AD210CF31A249B34007EB02E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD210CF21A249B34007EB02E /* Images.xcassets */; };
 		AD210CF61A249B34007EB02E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = AD210CF41A249B34007EB02E /* LaunchScreen.xib */; };
-		AD210D121A249C13007EB02E /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = AD210D0D1A249C13007EB02E /* TFHpple.m */; };
-		AD210D131A249C13007EB02E /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = AD210D0F1A249C13007EB02E /* TFHppleElement.m */; };
-		AD210D141A249C13007EB02E /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = AD210D111A249C13007EB02E /* XPathQuery.m */; };
 		AD210D161A249C4A007EB02E /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = AD210D151A249C4A007EB02E /* libxml2.dylib */; };
 		AD210D1D1A249D73007EB02E /* feed.rss in Resources */ = {isa = PBXBuildFile; fileRef = AD210D191A249D73007EB02E /* feed.rss */; };
 		AD210D1E1A249D73007EB02E /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = AD210D1A1A249D73007EB02E /* index.html */; };
 		AD210D1F1A249D73007EB02E /* TFHppleHTMLTest.m in Sources */ = {isa = PBXBuildFile; fileRef = AD210D1B1A249D73007EB02E /* TFHppleHTMLTest.m */; };
 		AD210D201A249D73007EB02E /* TFHppleXMLTest.m in Sources */ = {isa = PBXBuildFile; fileRef = AD210D1C1A249D73007EB02E /* TFHppleXMLTest.m */; };
 		AD210D221A24A06D007EB02E /* TFHppleStringTest.m in Sources */ = {isa = PBXBuildFile; fileRef = AD210D211A24A06C007EB02E /* TFHppleStringTest.m */; };
+		BF88F1421D8F2815002D32CC /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = BF88F13E1D8F2815002D32CC /* TFHpple.m */; };
+		BF88F1431D8F2815002D32CC /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = BF88F13F1D8F2815002D32CC /* TFHppleElement.m */; };
+		BF88F1441D8F2815002D32CC /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = BF88F1411D8F2815002D32CC /* XPathQuery.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,18 +47,18 @@
 		AD210CF51A249B34007EB02E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		AD210CFB1A249B34007EB02E /* HppleDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HppleDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD210D001A249B34007EB02E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AD210D0C1A249C13007EB02E /* TFHpple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TFHpple.h; path = ../Pod/Classes/TFHpple.h; sourceTree = "<group>"; };
-		AD210D0D1A249C13007EB02E /* TFHpple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TFHpple.m; path = ../Pod/Classes/TFHpple.m; sourceTree = "<group>"; };
-		AD210D0E1A249C13007EB02E /* TFHppleElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TFHppleElement.h; path = ../Pod/Classes/TFHppleElement.h; sourceTree = "<group>"; };
-		AD210D0F1A249C13007EB02E /* TFHppleElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TFHppleElement.m; path = ../Pod/Classes/TFHppleElement.m; sourceTree = "<group>"; };
-		AD210D101A249C13007EB02E /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XPathQuery.h; path = ../Pod/Classes/XPathQuery.h; sourceTree = "<group>"; };
-		AD210D111A249C13007EB02E /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XPathQuery.m; path = ../Pod/Classes/XPathQuery.m; sourceTree = "<group>"; };
 		AD210D151A249C4A007EB02E /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
 		AD210D191A249D73007EB02E /* feed.rss */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = feed.rss; sourceTree = "<group>"; };
 		AD210D1A1A249D73007EB02E /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		AD210D1B1A249D73007EB02E /* TFHppleHTMLTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHppleHTMLTest.m; sourceTree = "<group>"; };
 		AD210D1C1A249D73007EB02E /* TFHppleXMLTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHppleXMLTest.m; sourceTree = "<group>"; };
 		AD210D211A24A06C007EB02E /* TFHppleStringTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHppleStringTest.m; sourceTree = "<group>"; };
+		BF88F13E1D8F2815002D32CC /* TFHpple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TFHpple.m; path = ../Sources/TFHpple.m; sourceTree = "<group>"; };
+		BF88F13F1D8F2815002D32CC /* TFHppleElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TFHppleElement.m; path = ../Sources/TFHppleElement.m; sourceTree = "<group>"; };
+		BF88F1401D8F2815002D32CC /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XPathQuery.h; path = ../Sources/XPathQuery.h; sourceTree = "<group>"; };
+		BF88F1411D8F2815002D32CC /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XPathQuery.m; path = ../Sources/XPathQuery.m; sourceTree = "<group>"; };
+		BF88F1451D8F2830002D32CC /* TFHpple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TFHpple.h; path = ../Sources/include/TFHpple.h; sourceTree = "<group>"; };
+		BF88F1461D8F2830002D32CC /* TFHppleElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TFHppleElement.h; path = ../Sources/include/TFHppleElement.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,12 +147,12 @@
 		AD210D0B1A249C05007EB02E /* Hpple */ = {
 			isa = PBXGroup;
 			children = (
-				AD210D0C1A249C13007EB02E /* TFHpple.h */,
-				AD210D0D1A249C13007EB02E /* TFHpple.m */,
-				AD210D0E1A249C13007EB02E /* TFHppleElement.h */,
-				AD210D0F1A249C13007EB02E /* TFHppleElement.m */,
-				AD210D101A249C13007EB02E /* XPathQuery.h */,
-				AD210D111A249C13007EB02E /* XPathQuery.m */,
+				BF88F1451D8F2830002D32CC /* TFHpple.h */,
+				BF88F1461D8F2830002D32CC /* TFHppleElement.h */,
+				BF88F13E1D8F2815002D32CC /* TFHpple.m */,
+				BF88F13F1D8F2815002D32CC /* TFHppleElement.m */,
+				BF88F1401D8F2815002D32CC /* XPathQuery.h */,
+				BF88F1411D8F2815002D32CC /* XPathQuery.m */,
 			);
 			name = Hpple;
 			sourceTree = "<group>";
@@ -218,7 +218,7 @@
 		AD210CDA1A249B34007EB02E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 0800;
 				TargetAttributes = {
 					AD210CE11A249B34007EB02E = {
 						CreatedOnToolsVersion = 6.1;
@@ -278,9 +278,9 @@
 				AD210CEE1A249B34007EB02E /* ViewController.m in Sources */,
 				AD210CEB1A249B34007EB02E /* AppDelegate.m in Sources */,
 				AD210CE81A249B34007EB02E /* main.m in Sources */,
-				AD210D121A249C13007EB02E /* TFHpple.m in Sources */,
-				AD210D141A249C13007EB02E /* XPathQuery.m in Sources */,
-				AD210D131A249C13007EB02E /* TFHppleElement.m in Sources */,
+				BF88F1421D8F2815002D32CC /* TFHpple.m in Sources */,
+				BF88F1441D8F2815002D32CC /* XPathQuery.m in Sources */,
+				BF88F1431D8F2815002D32CC /* TFHppleElement.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -337,8 +337,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -347,6 +349,7 @@
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -379,8 +382,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -388,6 +393,7 @@
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;

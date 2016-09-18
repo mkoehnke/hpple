@@ -9,20 +9,20 @@
 /* Begin PBXBuildFile section */
 		764F10AE1CB681BA0078C5D9 /* Hpple.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10AD1CB681BA0078C5D9 /* Hpple.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		764F10C31CB683D60078C5D9 /* libxml2.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 764F10C21CB683D60078C5D9 /* libxml2.2.dylib */; };
-		764F10CC1CB6846F0078C5D9 /* TFHpple.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10C61CB6846F0078C5D9 /* TFHpple.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		764F10CD1CB6846F0078C5D9 /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = 764F10C71CB6846F0078C5D9 /* TFHpple.m */; };
-		764F10CE1CB6846F0078C5D9 /* TFHppleElement.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10C81CB6846F0078C5D9 /* TFHppleElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		764F10CF1CB6846F0078C5D9 /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 764F10C91CB6846F0078C5D9 /* TFHppleElement.m */; };
-		764F10D01CB6846F0078C5D9 /* XPathQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10CA1CB6846F0078C5D9 /* XPathQuery.h */; };
-		764F10D11CB6846F0078C5D9 /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 764F10CB1CB6846F0078C5D9 /* XPathQuery.m */; };
 		764F11001CB68DCA0078C5D9 /* Hpple.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10AD1CB681BA0078C5D9 /* Hpple.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		764F11011CB68F5A0078C5D9 /* TFHpple.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10C61CB6846F0078C5D9 /* TFHpple.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		764F11021CB68F5A0078C5D9 /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = 764F10C71CB6846F0078C5D9 /* TFHpple.m */; };
-		764F11031CB68F5A0078C5D9 /* TFHppleElement.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10C81CB6846F0078C5D9 /* TFHppleElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		764F11041CB68F5A0078C5D9 /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 764F10C91CB6846F0078C5D9 /* TFHppleElement.m */; };
-		764F11051CB68F5A0078C5D9 /* XPathQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 764F10CA1CB6846F0078C5D9 /* XPathQuery.h */; };
-		764F11061CB68F5A0078C5D9 /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 764F10CB1CB6846F0078C5D9 /* XPathQuery.m */; };
 		764F11071CB68FAE0078C5D9 /* libxml2.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 764F10C21CB683D60078C5D9 /* libxml2.2.dylib */; };
+		BF88F1321D8F273D002D32CC /* TFHpple.h in Headers */ = {isa = PBXBuildFile; fileRef = BF88F12C1D8F273D002D32CC /* TFHpple.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BF88F1331D8F273D002D32CC /* TFHpple.h in Headers */ = {isa = PBXBuildFile; fileRef = BF88F12C1D8F273D002D32CC /* TFHpple.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BF88F1341D8F273D002D32CC /* TFHppleElement.h in Headers */ = {isa = PBXBuildFile; fileRef = BF88F12D1D8F273D002D32CC /* TFHppleElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BF88F1351D8F273D002D32CC /* TFHppleElement.h in Headers */ = {isa = PBXBuildFile; fileRef = BF88F12D1D8F273D002D32CC /* TFHppleElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BF88F1361D8F273D002D32CC /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = BF88F12E1D8F273D002D32CC /* TFHpple.m */; };
+		BF88F1371D8F273D002D32CC /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = BF88F12E1D8F273D002D32CC /* TFHpple.m */; };
+		BF88F1381D8F273D002D32CC /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = BF88F12F1D8F273D002D32CC /* TFHppleElement.m */; };
+		BF88F1391D8F273D002D32CC /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = BF88F12F1D8F273D002D32CC /* TFHppleElement.m */; };
+		BF88F13A1D8F273D002D32CC /* XPathQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = BF88F1301D8F273D002D32CC /* XPathQuery.h */; };
+		BF88F13B1D8F273D002D32CC /* XPathQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = BF88F1301D8F273D002D32CC /* XPathQuery.h */; };
+		BF88F13C1D8F273D002D32CC /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = BF88F1311D8F273D002D32CC /* XPathQuery.m */; };
+		BF88F13D1D8F273D002D32CC /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = BF88F1311D8F273D002D32CC /* XPathQuery.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,13 +30,13 @@
 		764F10AD1CB681BA0078C5D9 /* Hpple.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Hpple.h; sourceTree = "<group>"; };
 		764F10AF1CB681BA0078C5D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		764F10C21CB683D60078C5D9 /* libxml2.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.2.dylib; path = /usr/lib/libxml2.2.dylib; sourceTree = "<absolute>"; };
-		764F10C61CB6846F0078C5D9 /* TFHpple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHpple.h; sourceTree = "<group>"; };
-		764F10C71CB6846F0078C5D9 /* TFHpple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHpple.m; sourceTree = "<group>"; };
-		764F10C81CB6846F0078C5D9 /* TFHppleElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHppleElement.h; sourceTree = "<group>"; };
-		764F10C91CB6846F0078C5D9 /* TFHppleElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHppleElement.m; sourceTree = "<group>"; };
-		764F10CA1CB6846F0078C5D9 /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XPathQuery.h; sourceTree = "<group>"; };
-		764F10CB1CB6846F0078C5D9 /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XPathQuery.m; sourceTree = "<group>"; };
 		764F10F81CB68D390078C5D9 /* hpple.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = hpple.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF88F12C1D8F273D002D32CC /* TFHpple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHpple.h; sourceTree = "<group>"; };
+		BF88F12D1D8F273D002D32CC /* TFHppleElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHppleElement.h; sourceTree = "<group>"; };
+		BF88F12E1D8F273D002D32CC /* TFHpple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHpple.m; sourceTree = "<group>"; };
+		BF88F12F1D8F273D002D32CC /* TFHppleElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHppleElement.m; sourceTree = "<group>"; };
+		BF88F1301D8F273D002D32CC /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XPathQuery.h; sourceTree = "<group>"; };
+		BF88F1311D8F273D002D32CC /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XPathQuery.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +80,7 @@
 		764F10AC1CB681BA0078C5D9 /* Hpple */ = {
 			isa = PBXGroup;
 			children = (
-				764F10C51CB6846F0078C5D9 /* Classes */,
+				BF88F12A1D8F273D002D32CC /* Sources */,
 				764F10AD1CB681BA0078C5D9 /* Hpple.h */,
 				764F10AF1CB681BA0078C5D9 /* Info.plist */,
 			);
@@ -95,18 +95,26 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		764F10C51CB6846F0078C5D9 /* Classes */ = {
+		BF88F12A1D8F273D002D32CC /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				764F10C61CB6846F0078C5D9 /* TFHpple.h */,
-				764F10C71CB6846F0078C5D9 /* TFHpple.m */,
-				764F10C81CB6846F0078C5D9 /* TFHppleElement.h */,
-				764F10C91CB6846F0078C5D9 /* TFHppleElement.m */,
-				764F10CA1CB6846F0078C5D9 /* XPathQuery.h */,
-				764F10CB1CB6846F0078C5D9 /* XPathQuery.m */,
+				BF88F12B1D8F273D002D32CC /* include */,
+				BF88F12E1D8F273D002D32CC /* TFHpple.m */,
+				BF88F12F1D8F273D002D32CC /* TFHppleElement.m */,
+				BF88F1301D8F273D002D32CC /* XPathQuery.h */,
+				BF88F1311D8F273D002D32CC /* XPathQuery.m */,
 			);
-			name = Classes;
-			path = ../../Pod/Classes;
+			name = Sources;
+			path = ../../Sources;
+			sourceTree = "<group>";
+		};
+		BF88F12B1D8F273D002D32CC /* include */ = {
+			isa = PBXGroup;
+			children = (
+				BF88F12C1D8F273D002D32CC /* TFHpple.h */,
+				BF88F12D1D8F273D002D32CC /* TFHppleElement.h */,
+			);
+			path = include;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -116,10 +124,10 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				764F10CC1CB6846F0078C5D9 /* TFHpple.h in Headers */,
-				764F10CE1CB6846F0078C5D9 /* TFHppleElement.h in Headers */,
-				764F10D01CB6846F0078C5D9 /* XPathQuery.h in Headers */,
+				BF88F1321D8F273D002D32CC /* TFHpple.h in Headers */,
+				BF88F13A1D8F273D002D32CC /* XPathQuery.h in Headers */,
 				764F10AE1CB681BA0078C5D9 /* Hpple.h in Headers */,
+				BF88F1341D8F273D002D32CC /* TFHppleElement.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -127,10 +135,10 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				764F11011CB68F5A0078C5D9 /* TFHpple.h in Headers */,
+				BF88F1331D8F273D002D32CC /* TFHpple.h in Headers */,
+				BF88F13B1D8F273D002D32CC /* XPathQuery.h in Headers */,
 				764F11001CB68DCA0078C5D9 /* Hpple.h in Headers */,
-				764F11031CB68F5A0078C5D9 /* TFHppleElement.h in Headers */,
-				764F11051CB68F5A0078C5D9 /* XPathQuery.h in Headers */,
+				BF88F1351D8F273D002D32CC /* TFHppleElement.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -179,7 +187,7 @@
 		764F10A11CB681BA0078C5D9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = "Mathias Koehnke";
 				TargetAttributes = {
 					764F10A91CB681BA0078C5D9 = {
@@ -230,9 +238,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				764F10CF1CB6846F0078C5D9 /* TFHppleElement.m in Sources */,
-				764F10D11CB6846F0078C5D9 /* XPathQuery.m in Sources */,
-				764F10CD1CB6846F0078C5D9 /* TFHpple.m in Sources */,
+				BF88F1381D8F273D002D32CC /* TFHppleElement.m in Sources */,
+				BF88F13C1D8F273D002D32CC /* XPathQuery.m in Sources */,
+				BF88F1361D8F273D002D32CC /* TFHpple.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,9 +248,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				764F11041CB68F5A0078C5D9 /* TFHppleElement.m in Sources */,
-				764F11061CB68F5A0078C5D9 /* XPathQuery.m in Sources */,
-				764F11021CB68F5A0078C5D9 /* TFHpple.m in Sources */,
+				BF88F1391D8F273D002D32CC /* TFHppleElement.m in Sources */,
+				BF88F13D1D8F273D002D32CC /* XPathQuery.m in Sources */,
+				BF88F1371D8F273D002D32CC /* TFHpple.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,8 +271,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -311,8 +321,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -342,6 +354,7 @@
 		764F10B31CB681BA0078C5D9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -365,6 +378,7 @@
 		764F10B41CB681BA0078C5D9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -388,7 +402,7 @@
 		764F10FE1CB68D390078C5D9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_IDENTITY = "";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
@@ -415,7 +429,7 @@
 		764F10FF1CB68D390078C5D9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_IDENTITY = "";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
